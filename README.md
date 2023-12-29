@@ -19,17 +19,16 @@
     <a href="mailto:hirakawatsuneteru@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
 </div>
 <br>
+<h1 align="center">ABOUT ME</h1>
 
-### ABOUT ME
+<p><b>Looking to work on position:</b> Passionate Web Developer</p> 
+<p><b>Interested in:</b> Responsive Design, MERN stack, Webpack, Wrodpress.</p>
+<p><b>Hobby:</b> tabletenis, badminton</p>
+<b>Email:</b><a href="mailto:hirakawatsuneteru@gmail.com" target="_blank">hirakawatsuneteru@gmail.com</a>
 
-- **Looking to work on position:** Passionate Web Developer
-- **Interested in:** Responsive Design, MERN stack, Webpack, Wrodpress.
-- **Hobby:** tabletenis, badminton
-- **Email:** &nbsp; <a href="mailto:hirakawatsuneteru@gmail.com" target="_blank">hirakawatsuneteru@gmail.com</a>
+<h1 align="center">STUDY</h1>
 
-### STUDY
-
-<table style="border-collapse: collapse;">
+<table style="border-collapse: collapse;" align="center">
     <tr>
         <td align="center">
             <img src="./assets/logo.png" alt="nsu logo" width="120px">
@@ -43,7 +42,7 @@
     </tr>
 </table>
 
-### TECHNOLOGY
+<h1 align="center">Technology</h1>
 
 <table align="center">
   <tr>
