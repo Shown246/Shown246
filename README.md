@@ -32,13 +32,13 @@
 <table style="border-collapse: collapse;">
     <tr>
         <td align="center">
-            <img src="./assets/logo.png" alt="hcmus logo" width="120px">
+            <img src="./assets/logo.png" alt="nsu logo" width="120px">
         </td>
         <td>
-            <h3 style="margin: 0;">Alice Salomon Hochschule Berlin
+            <h3 style="margin: 0;">North South University
 </h3> 
-            <sup style="color: gray;">2011 - 2015</sup>
-            <p>Bachelor of <b>Computer Network and Information Security</b></p>
+            <sup style="color: gray;">2022 - 2026</sup>
+            <p>Bachelor of <b>Computer Science and Engineering</b></p>
         </td>
     </tr>
 </table>
@@ -47,16 +47,16 @@
 
 <table align="center">
   <tr>
-    <td align="center"  width="92">
-        <img src="./assets/HTML.svg" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+    <td align="center"  width="96">
+        <img src="./assets/HTML.svg" width="48" height="65" alt="HTML5" />
+      <br>HTML 5
     </td>
     <td align="center" width="96">
-        <img src="./assets/CSS.svg" width="48" height="48" alt="css" />
-      <br>CSS
+        <img src="./assets/CSS.svg" width="48" height="65" alt="css" />
+      <br>CSS 3
     </td>
     <td align="center" width="96">
-        <img src="./assets/TailwindCSS-Dark.svg" width="48" height="48" alt="tailwind" />
+        <img src="./assets/TailwindCSS-Dark.svg" width="48" height="65" alt="tailwind" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
@@ -64,34 +64,46 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
+        <img src="./assets/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
         <img src="./assets/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
+      <br>ReactJS
     </td>
     <td align="center" width="96">
-        <img src="./assets/NodeJS-Dark.svg" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-    </td>
-    <td align="center" width="96">
-        <img src="./assets/MongoDB.svg" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>    
-    <td align="center" width="96">
-        <img src="./assets/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+        <img src="./assets/NodeJS-Dark.svg" width="48" height="65" alt="Nodejs" />
+      <br>NodeJS
     </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+        <img src="./assets/MongoDB.svg" width="48" height="65" alt="MongoDB" />
+      <br>MongoDB
+    </td>    
+    <td align="center" width="96">
+        <img src="./assets/ExpressJS-Dark.svg" alt="icon" width="65" height="65" />
+      <br>ExpressJS
+    </td>
+    <td align="center" width="96">
+        <img src="./assets/NextJS-Dark.svg" alt="icon" width="65" height="65" />
+      <br>NextJS
+    </td>
+    <td align="center" width="96">
+        <img src="./assets/Java-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="./assets/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <br>C++
+    </td>
     <td align="center" width="96"> 
-        <img src="./assets/Git.svg" width="48" height="48" alt="Git" />
+        <img src="./assets/Git.svg" width="48" height="65" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
         <img src="./assets/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="./assets/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
     </td>
   </tr>
 </table>
