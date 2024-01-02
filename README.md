@@ -1,32 +1,21 @@
 <h1 align="center">
     Hi <img src="./assets/Hi.gif" width="30px"> <br>
-    I'm <b>Shihab Tawsif Shown</b>
-</h1>
-
-<div align="center"> 
-    <a href="https://github.com/hirakawa0215?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/hirakawa?color=4C1&logo=github"></a>
-    <!-- github -->
-    <a href="https://github.com/hirakawa/hirakawa0215" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/hirakawa/hirakawa?label=Profile%20update&style=fflat-square"></a>
-</div>
-<div align="center">
-<!-- website -->
-    <a href="https://hirakawas-fantastic-site.webflow.io/"><img alt="Website badge" src="https://img.shields.io/badge/Potfolio-EC8B00?logo=google-chrome&logoColor=white">
+    I'm <b>Shihab Tawsif Shown</b> <br><br> 
+    <a href="https://www.linkedin.com/in/shihab-shown/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" height=25px, width=100px></a>
+    <a href="https://www.facebook.com/shihab.shown"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height=25px, width=105px></a>
+    <a href="https://hirakawas-fantastic-site.webflow.io/"><img alt="Website badge" src="https://img.shields.io/badge/Potfolio-EC8B00?logo=google-chrome&logoColor=white" height=25px, width=90px>
     </a>
-    <a href="https://discord.gg/dEYrqe4pdY"><img alt="Telegram badge" src="https://img.shields.io/badge/-Discord-5865f2?logo=Discord&logoColor=white"></a>
-    <a href="https://telegram.org/superman_195"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>
-    <a href="https://join.slack.com/t/hirakawaworkspace/shared_invite/zt-277shuqls-1hFN8xwSfXY99gbcbFjMWQ"><img alt="Slack badge" src="https://img.shields.io/badge/-Slack-79327f?logo=Slack&logoColor=white"></a>
-    <a href="mailto:hirakawatsuneteru@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
+    <a href="mailto:sadadrana@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white" height=25px, width=80px></a>
+</h1>
+<br>
+<br>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=27F75E&random=false&width=435&lines=Passionate+Web+Developer;Beautiful+%26+Responsive+Design%2C+MERN+stack" alt="Typing SVG" /></a>
 </div>
 <br>
-<h1 align="center">ABOUT ME</h1>
+<br>
 
-<p><b>Looking to work on position:</b> Passionate Web Developer</p> 
-<p><b>Interested in:</b> Responsive Design, MERN stack, Webpack, Wrodpress.</p>
-<p><b>Hobby:</b> tabletenis, badminton</p>
-<b>Email:</b><a href="mailto:hirakawatsuneteru@gmail.com" target="_blank">hirakawatsuneteru@gmail.com</a>
-
-<h1 align="center">STUDY</h1>
+<!-- <h1 align="center">STUDY</h1>
 
 <table style="border-collapse: collapse;" align="center">
     <tr>
@@ -40,9 +29,20 @@
             <p>Bachelor of <b>Computer Science and Engineering</b></p>
         </td>
     </tr>
-</table>
+</table> -->
 
-<h1 align="center">Technology</h1>
+<h1 align="center"><img src="./assets/about_me.gif" width="35px"> Recent Projects</h1>
+<div align="center">
+<a href="https://github.com/Shown246/Bing-Wallpaper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shown246&repo=Bing-Wallpaper&theme=blue-green" />
+</a>
+<a href="https://github.com/Shown246/LeetCode-Problem-Solving">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shown246&repo=LeetCode-Problem-Solving&theme=blue-green" />
+</a>
+</div>
+
+<br>
+<h1 align="center"><img src="./assets/giphy.gif" width="35px"> Technology</h1>
 
 <table align="center">
   <tr>
@@ -69,6 +69,10 @@
     <td align="center" width="96">
         <img src="./assets/react-icon.svg" alt="icon" width="65" height="65" />
       <br>ReactJS
+    <td align="center" width="96">
+        <img src="./assets/NextJS-Dark.svg" alt="icon" width="65" height="65" />
+      <br>NextJS
+    </td>
     </td>
     <td align="center" width="96">
         <img src="./assets/NodeJS-Dark.svg" width="48" height="65" alt="Nodejs" />
@@ -77,19 +81,23 @@
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="./assets/MongoDB.svg" width="48" height="65" alt="MongoDB" />
-      <br>MongoDB
-    </td>    
-    <td align="center" width="96">
         <img src="./assets/ExpressJS-Dark.svg" alt="icon" width="65" height="65" />
       <br>ExpressJS
     </td>
     <td align="center" width="96">
-        <img src="./assets/NextJS-Dark.svg" alt="icon" width="65" height="65" />
-      <br>NextJS
-    </td>
+        <img src="./assets/MongoDB.svg" width="48" height="65" alt="MongoDB" />
+      <br>MongoDB
+    </td>    
     <td align="center" width="96">
-        <img src="./assets/Java-Dark.svg" alt="icon" width="65" height="65" />
+        <img src="./assets/Firebase-Dark.svg" width="48" height="65" alt="MongoDB" />
+      <br>Firebase
+    </td>    
+    <td align="center" width="96">
+        <img src="./assets/restapi-icon.svg" width="48" height="65" alt="MongoDB" />
+      <br>Rest API
+    </td>    
+    <td align="center" width="96">
+        <img src="./assets/java-icon.svg" alt="icon" width="65" height="65" />
       <br>Java
     </td>
     <td align="center" width="96">
@@ -107,117 +115,15 @@
   </tr>
 </table>
 
-<!-- activity graph heroku-app start -->
+<div align="center"><img src="./assets/grid-snake.svg" alt="e" style="max-width: 100%;"></div>
+
+
+<h1 align="center"><img src="./assets/giphy (1).gif" width="35px"> Github Stats</h1>
 <p align="center">
-    <a href="https://wakatime.com/@Goblin8888">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hirakawa0215&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shown246&theme=blue-green&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<img width="45%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shown246&theme=blue-green&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
 </p>
-<!-- activity graph heroku-app end -->
-
-<p align="center">
-<a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Goblin&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
-<a href="https://github.com/PrinceGoblinTech?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
-</p>
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
-### PROJECTS AND DEV STUFF
-
-<b>⚡ Github Stats</b>
-<br />
-
-<p align="center">
-<a href="https://github.com/hirakawa0215?tab=repositories">
-<img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hirakawa0215&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="45%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hirakawa0215&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
-</a>
-</p>
-
-</p>
-
-
-<b>☄️ Github Streaks</b>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hirakawa0215&theme=gotham&hide_border=true" />
-
-<b>🧑‍🚀 Top Open Source Projects</b>
-<br />
-
-<!-- These templates will have you quickly bootstrapping your next project. -->
-
-> **Note:** These projects are not quite actively maintained, but I will try to keep them up to date with new features as much as possible 🌱.
-> <br />
-
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	      <td><a href="https://hirakawas-fantastic-site.webflow.io/"><b>FrontendPotfolio</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/FrontendPotfolio?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/FrontendPotfolio?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/FrontendPotfolio?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hirakawa0215/FrontendPotfolio?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hirakawa0215/FrontendPotfolio?"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/hirakawa0215/digital_dental_radiology_site"><b>Digital Dental Radiology site</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/digital_dental_radiology_site?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/digital_dental_radiology_site?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/digital_dental_radiology_site?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hirakawa0215/digital_dental_radiology_site?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hirakawa0215/digital_dental_radiology_site?"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/hirakawa0215/e-commerce"><b>E-commerce</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/e-commerce?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/e-commerce?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/e-commerce?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hirakawa0215/e-commerce?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hirakawa0215/e-commerce?"/></td>
-      </tr>
-      <tr>
-	    <td><a href="https://github.com/hirakawa0215/Standard-MERN-Project"><b>Standard-MERN-Project</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/Standard-MERN-Project?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/Standard-MERN-Project?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/Standard-MERN-Project?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hirakawa0215/Standard-MERN-Project?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hirakawa0215/Standard-MERN-Project?"/></td>
-      </tr>
-      <tr>
-	    <td><a href="https://github.com/hirakawa0215/Bookstore"><b>Bookstore</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/hirakawa0215/Bookstore?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/hirakawa0215/Bookstore?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/hirakawa0215/Bookstore?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hirakawa0215/Bookstore?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hirakawa0215/Bookstore?"/></td>
-      </tr>
-    </tbody>
-  </table>
-  <br />
-</details>
-
 <br>
-
----
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=hirakawa0215&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<br/>
-
-<!-- My previous work -->
 
 <div align="center">
     <h2>Thanks for visiting <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
