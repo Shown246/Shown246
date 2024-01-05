@@ -115,7 +115,7 @@
   </tr>
 </table>
 
-<div align="center"><img src="./assets/grid-snake.svg" alt="e" style="max-width: 100%;"></div>
+<!-- <div align="center"><img src="./assets/grid-snake.svg" alt="e" style="max-width: 100%;"></div> -->
 
 
 <h1 align="center"><img src="./assets/giphy (1).gif" width="35px"> Github Stats</h1>
