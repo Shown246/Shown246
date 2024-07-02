@@ -3,7 +3,7 @@
     I'm <b>Shihab Tawsif Shown</b> <br><br> 
     <a href="https://www.linkedin.com/in/shihab-shown/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" height=25px, width=100px></a>
     <a href="https://www.facebook.com/shihab.shown"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height=25px, width=105px></a>
-    <a href="https://hirakawas-fantastic-site.webflow.io/"><img alt="Website badge" src="https://img.shields.io/badge/Potfolio-EC8B00?logo=google-chrome&logoColor=white" height=25px, width=90px>
+    <a href=""><img alt="Website badge" src="https://img.shields.io/badge/Potfolio-EC8B00?logo=google-chrome&logoColor=white" height=25px, width=90px>
     </a>
     <a href="mailto:sadadrana@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white" height=25px, width=80px></a>
 </h1>
@@ -33,8 +33,14 @@
 
 <h1 align="center"><img src="./assets/about_me.gif" width="35px"> Recent Projects</h1>
 <div align="center">
-<a href="https://github.com/Shown246/Bing-Wallpaper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shown246&repo=Bing-Wallpaper&theme=blue-green" />
+<a href="https://github.com/Shown246/Travel-BD-Client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shown246&repo=Travel-BD-Client&theme=blue-green" />
+</a>
+<a href="https://github.com/Shown246/Academia-Lib">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shown246&repo=Academia-Lib&theme=blue-green" />
+</a>
+<a href="https://github.com/Shown246/Terra-Potter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shown246&repo=Terra-Potter&theme=blue-green" />
 </a>
 <a href="https://github.com/Shown246/LeetCode-Problem-Solving">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shown246&repo=LeetCode-Problem-Solving&theme=blue-green" />
