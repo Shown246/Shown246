@@ -31,7 +31,7 @@
     </tr>
 </table> -->
 
-<h1 align="center"><img src="./assets/about_me.gif" width="35px"> Recent Projects</h1>
+<!--<h1 align="center"><img src="./assets/about_me.gif" width="35px"> Recent Projects</h1>
 <div align="center">
 <a href="https://github.com/Shown246/Travel-BD-Client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shown246&repo=Travel-BD-Client&theme=blue-green" />
@@ -45,7 +45,7 @@
 <a href="https://github.com/Shown246/LeetCode-Problem-Solving">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shown246&repo=LeetCode-Problem-Solving&theme=blue-green" />
 </a>
-</div>
+</div> -->
 
 <br>
 <h1 align="center"><img src="./assets/giphy.gif" width="35px"> Technology</h1>
